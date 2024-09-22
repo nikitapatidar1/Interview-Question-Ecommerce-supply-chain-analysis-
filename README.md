@@ -19,8 +19,8 @@ This project provides an in-depth E-commerce Supply Chain Analysis, designed to 
          +   Measure delivery performance across regions and logistics partners.
          +   Calculate average delivery times and identify geographical challenges.
 3.   Inventory & Warehouse Management:
-         +    Optimize inventory levels based on historical order data.
-         +    Stock-out analysis: Detect stock-out situations and calculate the frequency of such events.
+    + Optimize inventory levels based on historical order data.
+    + Stock-out analysis: Detect stock-out situations and calculate the frequency of such events.
    + Warehouse management strategies, including product reordering levels and demand forecasting.
 4.   Supply Chain Costs:
          +    Analyze the cost per order, including shipping costs, storage fees, and other logistics expenses.
